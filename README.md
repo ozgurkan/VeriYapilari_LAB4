@@ -13,11 +13,9 @@ Yapılacak İşlemler : NxN hücreden oluşan labirent  için bir matris kullan�
 Labirenti ekranda göstermek için aşağıdaki işaretleri kullanınız:  
 Duvarlar : '-' ve '|'  Odalar : ' ' Odaların köşeleri :  '+', Başlangıç :  '*'  Çıkış :  'X'  İzlediği yol: ‘I’ 
 Örneğin :       
- +-+-+-+-+-+-+-+ 
- 
+ +-+-+-+-+-+-+-+  
  |*|   | | |   | 
- + +-+ + + +-+ + 
- 
+ + +-+ + + +-+ +  
  |I  |   |     | 
  + + + +-+ +-+ + 
  |I|   |     | | 
