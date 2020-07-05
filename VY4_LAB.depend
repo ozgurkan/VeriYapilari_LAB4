@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526907046 source:c:\users\ozgur\desktop\vy4_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
