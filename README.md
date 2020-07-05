@@ -1,5 +1,5 @@
 # VeriYapilari_LAB4
-
+Ders Yürütücüsü: Prof. Yahya KARSLIGİL
 # Konu: Grafta Arama   Problem:  Labirent Problemi  
  
 Bu ödevde, verilen bir N sayısı ve verilen bir NxN’lik labirent için, başlangıç hücresi (1,1)’den bitiş hücresi (N, N)’e yol olup olmadığını DFS(Depth First Search) yöntemi ile bulan bir algoritma tasarlanacaktır. DFS’yi rekürsif yaklaşım ile gerçekleştiriniz.  
